@@ -3,3 +3,5 @@
 * Then i convert dates into proper form and take max and min dates
 
 # Now we can create column, which contain the difference between the last date and the other dates
+
+# Next we are gonna do feature engineering
