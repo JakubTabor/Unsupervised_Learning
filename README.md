@@ -1,4 +1,4 @@
-# [1. ]()
+# [1. Clustering: Marketing campain](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Unsupervised_Clustering%20(1).ipynb)
 # Our goal is to group unstructured data according to its similarities and patterns.
 * To reach it we need to apply some techniques
 # dimensionality reductions:
