@@ -1,3 +1,5 @@
 # I gonna start from data preprocessing
 * First i drop missing values 
 * Then i convert dates into proper form and take max and min dates
+
+# Now we can create column, which contain the difference between the last date and the other dates
