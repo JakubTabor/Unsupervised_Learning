@@ -10,3 +10,4 @@
 * Next we take care of Marital_Status column by simplifing it
 * We change the status to Partner of Alone, not any fancy descriptions
 * We also simplify column of kids by adding Kidhome and Teenhome, next change name of column to Children
+* Then we change Living_With column into numericall form
