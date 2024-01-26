@@ -8,3 +8,4 @@
 * First we create column Age, which is the difference from the last recorded date and Year of birth
 * Then will be spent, which are all the products added
 * Next we take care of Marital_Status column by simplifing it
+* We change the status to Partner of Alone, not any fancy descriptions
