@@ -5,4 +5,5 @@
 # Now we can create column, which contain the difference between the last date and the other dates
 
 # Next we are gonna do feature engineering
-* First we create column Age, which is the difference from the last 
+* First we create column Age, which is the difference from the last recorded date and Year of birth
+* Then will be spent, which are all the products added
