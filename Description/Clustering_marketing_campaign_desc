@@ -14,3 +14,4 @@
 * Alone will be 1 and with partner 2 and we add children column 
 * And it create Family_Size column
 * Next Is_Parent column, if the condition is satisfied it signed the results
+* Then we simplify Education column, by signing only 3 options instead of many more
