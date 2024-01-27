@@ -28,3 +28,4 @@
 
 # Next i do data preprocessing
 * I start it from saving all data types object, as a list of that object and its index 
+* I can see that the objects are in Education and Living_With columns 
