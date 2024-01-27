@@ -21,3 +21,4 @@
 # Outliers removal
 * Now i can see that there are some values in description that are out of the blue
 * So i use graph to plot my data and see its distribution
+* Thanks to the graph plot i can just drop these outliers by simple code
