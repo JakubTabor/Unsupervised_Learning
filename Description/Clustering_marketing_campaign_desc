@@ -17,3 +17,5 @@
 * Then we simplify Education column, by signing only 3 options instead of many more
 * We also change the names of products
 * And we drop columns which are already out of date of unuseful
+
+# Outliers removal
