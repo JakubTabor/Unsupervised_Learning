@@ -25,3 +25,5 @@
 * I can see that the age outliers lie beyond 90, so i save age below 90
 * And income column outliers lie beyond 600 000, so i save income below that
 * I end that, bu building correlation between current data
+
+# Next i do data preprocessing
