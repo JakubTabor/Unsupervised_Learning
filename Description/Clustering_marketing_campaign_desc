@@ -19,3 +19,4 @@
 * And we drop columns which are already out of date of unuseful
 
 # Outliers removal
+* Now i can see that there are some values in description that are out of the blue
