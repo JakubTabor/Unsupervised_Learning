@@ -4,3 +4,5 @@
 
 # We choose the number of components as 3, so i set num of columns to 3 and put everything into dataFrame
 * Now my newly dataset have only 3 columns, when i look at the description everything looks very well
+
+# Now i can plot my data in 3D projection, just supply my 3 columns
