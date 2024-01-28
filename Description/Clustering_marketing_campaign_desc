@@ -33,3 +33,4 @@
 * So i apply the encoder on previous saved object columns and now they are int64 instead of object 
 
 # Then i gonna create subset of my dataframe without features of deals
+* The rest of data i scale using StandardScaler
