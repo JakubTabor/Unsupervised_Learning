@@ -31,3 +31,5 @@
 * I can see that the objects are in Education and Living_With columns 
 * Now i can do label encoding and scaling 
 * So i apply the encoder on previous saved object columns and now they are int64 instead of object 
+
+# Then i gonna create subset of my dataframe without features of deals
