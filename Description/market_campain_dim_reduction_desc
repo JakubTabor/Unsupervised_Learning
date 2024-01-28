@@ -1,2 +1,3 @@
 # Now i come to the part of dimensionality reduction
 * We are gonna use highly correlation between features to reduce the similar ones
+* And pack them into lower dimensional data, but in the same time with minimal loss of informations
