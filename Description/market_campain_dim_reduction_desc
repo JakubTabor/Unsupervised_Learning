@@ -1,3 +1,5 @@
 # Now i come to the part of dimensionality reduction
 * We are gonna use highly correlation between features to reduce the similar ones
 * And pack them into lower dimensional data, but in the same time with minimal loss of informations
+
+# We choose the number of components as 3, so i set num of columns to 3 and put everything into dataFrame
