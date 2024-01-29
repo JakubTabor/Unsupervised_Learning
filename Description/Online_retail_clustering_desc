@@ -2,3 +2,5 @@
 * I check how many of my values are missing in percentage
 * I can see that 0.27% of data lack in Description column and int CustomerID column 24.93%
 * For simplicity i just drop them
+
+# Next will be data preparation
