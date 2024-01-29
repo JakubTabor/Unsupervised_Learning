@@ -11,3 +11,4 @@
 
 # I gonna use elbow method to figure out optimal number of clusters
 * I supply to my model 10 options for clusters
+* And we achieve the optimal score at 4 clusters
