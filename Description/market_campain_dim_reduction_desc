@@ -10,3 +10,4 @@
 * And i want to create couple of calusters from it basing on their similarity
 
 # I gonna use elbow method to figure out optimal number of clusters
+* I supply to my model 10 options for clusters
