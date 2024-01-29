@@ -5,3 +5,4 @@
 
 # Next will be data preparation
 * I start from creating 3 columns for 3 new variables, which will describe very well clients behaviour of buying
+* First will be Amount, which is total amount of transactions
