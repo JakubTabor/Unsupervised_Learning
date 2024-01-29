@@ -9,3 +9,4 @@
 * This column create by taking quantity column and multiply by unitprice column
 * Next i group it by customers id 
 * Another column will be Frequency, which is number of transactions
+* I create it by taking InvoiceNo column group by customers id and count it
