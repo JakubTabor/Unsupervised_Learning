@@ -14,3 +14,4 @@
 * And we achieve the optimal score at 4 clusters
 
 # And now we can use agglomerative clustering technique to get 4 clusters
+* Next we plot the distribution of our data on 3D plot
