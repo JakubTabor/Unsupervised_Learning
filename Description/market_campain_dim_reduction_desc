@@ -18,3 +18,4 @@
 * We can see that our clusters are placed around their own centroids
 
 # And we get to the part of evaluation, we are gonna study patterns with help of graph plots
+* First we look at distribution, it seems that we don't have any outlier cluster
