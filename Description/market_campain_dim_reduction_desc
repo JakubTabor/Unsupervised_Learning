@@ -15,3 +15,4 @@
 
 # And now we can use agglomerative clustering technique to get 4 clusters
 * Next we plot the distribution of our data on 3D plot
+* We can see that our clusters are placed around their own centroids
