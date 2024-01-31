@@ -16,3 +16,4 @@
 * First i change column with dates into proper format
 * Then i define tahe latest data, which is max date
 * Next i create diff column, which is the difference between latest date and any other dates
+* And i take the minimum value from all that differences
