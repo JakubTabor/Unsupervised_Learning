@@ -13,3 +13,4 @@
 * Then i can merge the 2 newly created columns, based on customers id
 
 # Next i gonna create Recency column
+* First i change column with dates into proper format
