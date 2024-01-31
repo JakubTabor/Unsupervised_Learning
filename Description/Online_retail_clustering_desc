@@ -11,3 +11,5 @@
 * Another column will be Frequency, which is number of transactions
 * I create it by taking InvoiceNo column group by customers id and count it
 * Then i can merge the 2 newly created columns, based on customers id
+
+# Next i gonna create Recency column
