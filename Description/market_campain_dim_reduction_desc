@@ -33,3 +33,5 @@
 
 # Then we are passing to the profiling of the customers and find the best group of customers
 * We use all features from our dataset for profiling, we plot them
+
+# And we can derive the following conclusions:
