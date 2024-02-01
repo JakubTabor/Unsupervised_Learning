@@ -19,3 +19,5 @@
 * And i take the minimum value from all that differences
 * We take from it only days and it become our Recency column
 * Next we merge that all
+
+# Then we can deal with outliers
