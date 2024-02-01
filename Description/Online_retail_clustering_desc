@@ -22,3 +22,5 @@
 
 # Then we can deal with outliers
 * First we make outliers analysis by graph plots
+
+# We are gonna use IQR tehniqie
