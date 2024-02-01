@@ -30,3 +30,5 @@
 # Now i gonna look at graph of deals purchased by each of the cluster
 * As we can see the cluster 0 has the highest number of deals purchased and cluster 1 has the lowest, others are at mean
 * And the conclusions are following:
+
+# Then we are passing to the profiling of the customers and find the best group of customers
