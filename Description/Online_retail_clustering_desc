@@ -24,3 +24,4 @@
 * First we make outliers analysis by graph plots
 
 # We are gonna use IQR tehniqie
+* To remove these outliers we need to define 2 quantiles, which represent the lower and upper bound
