@@ -28,3 +28,4 @@
 * And we do this for our 3 columns: Amount, Recency and Frequency
 * Every datapoint which is greater than Q1 and lower than Q3 stay in our dataset
 * Rest are just not included
+* And when we look again at the graph plot we see that the outliers are reduced 
