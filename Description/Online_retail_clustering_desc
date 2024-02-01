@@ -25,3 +25,4 @@
 
 # We are gonna use IQR tehniqie
 * To remove these outliers we need to define 2 quantiles, which represent the lower and upper bound
+* And we do this for our 3 columns: Amount, Recency and Frequency
