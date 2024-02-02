@@ -37,3 +37,4 @@
 * They are: **Amount, Frequency and Recency** and they become my new dataset
 
 # Then i want to remove the outliers from my dataset
+* First to take a look at my data distribution i plot my data on graph
