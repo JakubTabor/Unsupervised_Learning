@@ -31,3 +31,4 @@
 # In this part i gonna work on dataset which contain online shopping records
 
 # First i do preprocessing of the data, which at this point is not ready to work on it
+* I use a code to first check the percentage of missing values in dataset and next remove them
