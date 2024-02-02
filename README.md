@@ -23,3 +23,8 @@
 # Then I check distribution of my clusters and go into details into customers profiling
 * I use different plots to extract deeper sense of the informations about customer included in each cluster
 * And figure out the best group of customers
+
+#
+#
+#
+# [2. Clustering: Online_Retail](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Online_Retail_PCA_Clustering.ipynb)
