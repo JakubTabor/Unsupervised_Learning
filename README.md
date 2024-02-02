@@ -34,3 +34,4 @@
 * I use a code to first check the percentage of missing values in dataset and next remove them
 
 # Next using the current columns i gonna create new, which are gonna be more descriptive
+* They are: **Amount, Frequency and Recency** and they become my new dataset 
