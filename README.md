@@ -38,3 +38,4 @@
 
 # Then i want to remove the outliers from my dataset
 * First to take a look at my data distribution i plot my data on graph
+* And next i use IQR tehnique to remove outliers
