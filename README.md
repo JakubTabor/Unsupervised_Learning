@@ -29,3 +29,5 @@
 #
 # [2. Clustering: Online_Retail](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Online_Retail_PCA_Clustering.ipynb)
 # In this part i gonna work on dataset which contain online shopping records
+
+# First i do preprocessing of the data, which at this point is not ready to work on it
