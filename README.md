@@ -32,3 +32,5 @@
 
 # First i do preprocessing of the data, which at this point is not ready to work on it
 * I use a code to first check the percentage of missing values in dataset and next remove them
+
+# Next using the current columns i gonna create new, which are gonna be more descriptive
