@@ -46,3 +46,4 @@
 
 # Next we are gonna build model for our dataset, it will be KMeans model 
 * But first we are gonna figure our number of clusters from our dataset
+* First we check it using inertia_ and supplying 7 possible num. of clusters
