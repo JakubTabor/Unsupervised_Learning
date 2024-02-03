@@ -54,4 +54,6 @@
 * And we derive following conclusions:
 
 # We also check the hierarhical clustering, but it gives us different conclusions
-* So in the final summary we are gonna use the information from our KMeans model 
+* So in the final summary we are gonna use the information from our KMeans model
+
+# And that's the final summary of each 3 clusters
