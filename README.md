@@ -44,4 +44,4 @@
 # Now when my data is in a fine range i can scale it and put into DataFrame
 * Our dataset is now ready, we can check the description and see that everything is in fine range
 
-# Next we are gonna build model for our dataset
+# Next we are gonna build model for our dataset, it will be KMeans model 
