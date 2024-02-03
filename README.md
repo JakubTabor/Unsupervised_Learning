@@ -45,3 +45,4 @@
 * Our dataset is now ready, we can check the description and see that everything is in fine range
 
 # Next we are gonna build model for our dataset, it will be KMeans model 
+* But first we are gonna figure our number of clusters from our dataset
