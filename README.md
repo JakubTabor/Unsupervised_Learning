@@ -48,3 +48,4 @@
 * But first we are gonna figure our number of clusters from our dataset
 * First we check it using inertia_ and supplying 7 possible num. of clusters
 * Next we use Silhouette Score and overall from this 2 techniques we see that the best num. of clusters is 3
+* And sign kmeans labels to our dataset, thats how we reach its final form
