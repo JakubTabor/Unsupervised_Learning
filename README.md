@@ -42,3 +42,5 @@
 * Thanks to the previous graph i know where lie the outliers and i can define fences to exclude the highest and the lowest values
 
 # Now when my data is in a fine range i can scale it and put into DataFrame
+
+# Next we are gonna build model for our dataset
