@@ -50,4 +50,5 @@
 * Next we use Silhouette Score and overall from this 2 techniques we see that the best num. of clusters is 3
 * And sign kmeans labels to our dataset, thats how we reach its final form
 
-# Now we can check on graph the characteristics of each graph
+# Now we can check on graph the characteristics of each cluster
+* And we derive following conclusions:
