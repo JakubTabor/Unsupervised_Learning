@@ -52,3 +52,5 @@
 
 # Now we can check on graph the characteristics of each cluster
 * And we derive following conclusions:
+
+# We also check the hierarhical clustering, but it gives us different conclusions
