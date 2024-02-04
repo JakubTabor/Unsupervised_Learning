@@ -53,7 +53,7 @@
 # Now we can check on graph the characteristics of each cluster
 * And we derive following conclusions:
 
-# We also check the hierarhical clustering, but it gives us different conclusions
+# We also check the hierarhical clustering, and it gives us similar conclusions
 * So in the final summary we are gonna use the information from our KMeans model
 
 # And that's the final summary of each 3 clusters
