@@ -54,6 +54,7 @@
 * And we derive following conclusions:
 
 # We also check the hierarhical clustering, and it gives us similar conclusions
+* Numbers are different, but still the order is the same
 
 # And that's the final summary of each 3 clusters:
 # And we can say that the Cluster nr. 3 is the most important in sence of customers
