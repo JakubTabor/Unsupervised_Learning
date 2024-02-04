@@ -57,3 +57,4 @@
 
 # And that's the final summary of each 3 clusters:
 # And we can say that the Cluster nr. 3 is the most important in sence of customers
+# And Cluster nr. 2 is little below
