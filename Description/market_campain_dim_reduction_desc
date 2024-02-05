@@ -1,2 +1,3 @@
 # I gonna start from data preprocessing
 * First i drop missing values 
+* Then i convert dates into proper form and take max and min dates
