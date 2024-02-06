@@ -60,3 +60,8 @@
 # And we can say that the Cluster nr. 3 is the most important in sence of customers
 # And Cluster nr. 2 is little below
 # The Cluster nr. 1 at the last place
+
+#
+#
+#
+# [3. PCA: Face Recognition]()
