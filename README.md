@@ -64,4 +64,4 @@
 #
 #
 #
-# [3. PCA: Face Recognition]()
+# [3. PCA: Face Recognition](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Face_Recognition_Pipeline.ipynb)
