@@ -8,6 +8,7 @@
 * Groups are created based of their common features
 
 # First, we change the structure of my data to make it better self-descriptive
+# [Data preprocessing and feature engineering](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Description/marketing_campaign_preprocess_desc)
 * Then I make simple outliers cleaning from outliers with help of graph plot
 * Next I built correlation
 
