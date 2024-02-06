@@ -33,6 +33,7 @@
 # In this part i gonna work on dataset which contain online shopping records
 
 # First i do preprocessing of the data, which at this point is not ready to work on it
+# [Preprocessing and feature engineering](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Description/Online_retail_preprocess_desc)
 * I use a code to first check the percentage of missing values in dataset and next remove them
 
 # Next using the current columns i gonna create new, which are gonna be more descriptive
