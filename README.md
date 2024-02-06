@@ -16,6 +16,7 @@
 * Then use StandardScaler to scale all of my data
 
 # I use PCA for dimensionality reduction and left only 3 the most important features
+# [Dimensionality reduction and model evaluation](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Description/market_campain_dim_reduction_desc)
 * I plot my dimensionality reduced data on 3D graph
 
 # Next use elbow method to figure out optimal number of clusters
