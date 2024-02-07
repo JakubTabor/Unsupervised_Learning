@@ -74,3 +74,5 @@
 # First i start from data exploration 
 * To do this i create function with plt module
 * And to check data properties i use prints of por example: number of target and image size
+
+# Theni come to the part of data preparation
