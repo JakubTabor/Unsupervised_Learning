@@ -69,3 +69,4 @@
 #
 #
 # [3. PCA: Face Recognition](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Face_Recognition_Pipeline.ipynb)
+# In this part i gonna build a model for face recognition, based on face dataset, which i include in CSV directory
