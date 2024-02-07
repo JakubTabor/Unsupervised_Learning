@@ -79,3 +79,4 @@
 * It contains input reshaping, then data splitting, but always i follow how changes shapes and check if i have class balance
 
 # Next i come to the part of PCA, i use the graph for visual explanation
+* To do this i use mglearn module and then plt function, to represent it on my dataset
