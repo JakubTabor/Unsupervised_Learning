@@ -73,3 +73,4 @@
 # [CSV directory](https://github.com/JakubTabor/Unsupervised_Learning/tree/main/CSV)
 # First i start from data exploration 
 * To do this i create function with plt module
+* And to check data properties i use prints of por example: number of target and image size
