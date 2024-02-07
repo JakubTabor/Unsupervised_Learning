@@ -75,5 +75,7 @@
 * To do this i create function with plt module
 * And to check data properties i use prints of por example: number of target and image size
 
-# Theni come to the part of data preparation
-* It contains input reshaping, then data splitting, but always i follow how changes shapes and check if i have class balance 
+# Then i come to the part of data preparation
+* It contains input reshaping, then data splitting, but always i follow how changes shapes and check if i have class balance
+
+# Next i come to the part of PCA, i use the graph for visual explanation
