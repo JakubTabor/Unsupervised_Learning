@@ -93,3 +93,4 @@
 
 # Next i do further evaluations to reach the clarity which model is the best, so i use cross validation score
 * I supply the KFold model with 5 splits of data and shuffling parameter
+* And i put it into cross_val_score model, as well as all my models and my data and targets
