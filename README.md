@@ -85,3 +85,4 @@
 * First i use KElbow technique, i run it for many iterations and only few iterations, but i dont get any concrete results
 * So i try another technique, which is graph of variance explanation, a now i can see that variance stabilize around 50 - 90 components
 * I stay with maximum allowed - 90, i pass to my PCA model 90 components and train it on my dataset
+* Then i plot on graph the average face from my model and the eigenfaces, so the components of my model
