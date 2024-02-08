@@ -88,3 +88,5 @@
 * Then i plot on graph the average face from my model and the eigenfaces, so the components of my model
 
 # Now i can come to the part of classification
+* I start from transforming X_train and X_test
+* Next i couple models and and train them, the best scores reach LinearDiscriminant, LogisticRegression and SVC
