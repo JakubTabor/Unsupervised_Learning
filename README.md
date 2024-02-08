@@ -82,3 +82,4 @@
 * To do this i use mglearn module and then plt function, to represent it on my dataset
 
 # Then i gonna figure our out the optimal number of clusters
+* First i use KElbow technique, i run it for many iterations and only few iterations, but i dont get any concrete results
