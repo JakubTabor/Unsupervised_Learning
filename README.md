@@ -90,3 +90,5 @@
 # Now i can come to the part of classification
 * I start from transforming X_train and X_test
 * Next i couple models and and train them, the best scores reach LinearDiscriminant, LogisticRegression and SVC
+
+# Next i do further evaluations to reach the clarity which model is the best
