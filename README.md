@@ -83,3 +83,4 @@
 
 # Then i gonna figure our out the optimal number of clusters
 * First i use KElbow technique, i run it for many iterations and only few iterations, but i dont get any concrete results
+* So i try another technique, which is graph of variance explanation, a now i can see that variance stabilize around 50 - 90 components
