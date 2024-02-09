@@ -105,4 +105,5 @@
 * First i prepare my data, by binarizing my labels and creating train and test multiclass sets
 * Then transforming them using PCA, then training OneVsRestClassifier and get y_score
 * Now i can create dictionaries for precision recall and average_precision and fill them for each classes
-* So i call from metrics precision_recall_curve and average_precision_score
+* Then take average and micro-average and i achieve score: 0.95 
+* And i plot precision and recall with plt and signature
