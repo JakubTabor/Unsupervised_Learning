@@ -103,5 +103,6 @@
 # Now i gonna show precision and recall curves and measure micro average score over all classes using my LD model 
 * I gonna do multiclass classification using OneVsRestClassifier
 * First i prepare my data, by binarizing my labels and creating train and test multiclass sets
-* Then transforming them using PCA, then training OneVsRestClassifier and get y_score 
+* Then transforming them using PCA, then training OneVsRestClassifier and get y_score
+* Now i can create dictionaries for precision recall and average_precision and fill them for each classes
 * So i call from metrics precision_recall_curve and average_precision_score
