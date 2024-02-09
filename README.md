@@ -95,3 +95,5 @@
 * I supply the KFold model with 5 splits of data and shuffling parameter
 * And i put it into cross_val_score model, as well as all my models and my data and targets
 * 2 model achieve the best accuracy: LinearDiscriminant and LogisticRegression
+
+# Another measurement that i do is by LeaveOneOut model, it leave only 1 sample for evaluation
