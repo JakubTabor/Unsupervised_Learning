@@ -98,4 +98,5 @@
 
 # Another measurement that i do is by LeaveOneOut model, it leave only 1 sample for evaluation
 * I supply into cross_val_score model both classifiers, then X and y, then LeaveOneOut model
-* And LinearDiscrimiant have little better score 
+* And LinearDiscrimiant have little better score and it will be my finall model
+
