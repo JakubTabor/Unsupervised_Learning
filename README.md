@@ -101,4 +101,5 @@
 * And LinearDiscrimiant have little better score and it will be my finall model
  
 # Now i gonna show precision and recall curves and measure micro average score over all classes using my LD model 
-
+* I gonna do multiclass classification using OneVsRestClassifier
+* So i call from metrics precision_recall_curve and average_precision_score
