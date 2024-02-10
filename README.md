@@ -107,3 +107,5 @@
 * Now i can create dictionaries for precision recall and average_precision and fill them for each classes
 * Then take average and micro-average and i achieve score: 0.95 
 * And i plot precision and recall with plt and signature
+
+# And finally i also arrange the operations in Piepeline
