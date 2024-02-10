@@ -109,3 +109,4 @@
 * And i plot precision and recall with plt and signature
 
 # And finally i also arrange the operations in Piepeline
+* I supply my 2 best models into workflow and then train them, next get predictions
