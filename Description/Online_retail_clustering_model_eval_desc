@@ -2,3 +2,4 @@
 * First we try the elbow method, so i supply some number of clusters 
 * And next create for loop in range of these clusters
 * Then supply KMeans model, and when we run it we see on graph that the curve first decay rapidly and then turn into stable form
+* We want to catch it the place where the curve is still decaying rapidly and it seems that 3 is the optimum place
