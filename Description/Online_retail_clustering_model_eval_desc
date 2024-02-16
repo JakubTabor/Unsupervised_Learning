@@ -7,3 +7,4 @@
 # Another method which help me check the num. of clusters will be silhouette  score
 * One again we make for loop in range of clusters and call silhouette  score on every cluster
 * And we choose cluster 3 which have (0.508)
+* It means that the data points in this cluster are enough close to each other 
