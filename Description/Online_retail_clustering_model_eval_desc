@@ -1,2 +1,3 @@
 # In this section i gonna create create the clusters from our data then evaluate it and derive conclusions
 * First we try the elbow method, so i supply some number of clusters 
+* And next create for loop in range of these clusters
