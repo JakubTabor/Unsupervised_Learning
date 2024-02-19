@@ -13,3 +13,4 @@
 * Then i can supply number of indexes to get 10 faces of each subject 
 
 # Then i gonna do data preparation
+* I start from reshaping the images, and now they are (400-num. of images) and (size of input 64*64, so 4096)
