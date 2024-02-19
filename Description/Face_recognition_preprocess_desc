@@ -4,3 +4,4 @@
 ! [](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Face_recognition_preprocessing/dataset_info.png)
 
 # Next i can look at the images 
+* I define properties of my images and flatten them
