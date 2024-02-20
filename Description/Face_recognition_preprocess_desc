@@ -27,3 +27,4 @@
 # I want to check the optimal number of components for my data 
 * First i gonna check num. of components usin KElbow method
 * We supply num. of components and model will choose the best according to the score
+* Both Graphs are not so certain to the number of components, so i gonna check another method
