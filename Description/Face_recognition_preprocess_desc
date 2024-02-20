@@ -16,3 +16,5 @@
 * I start from reshaping the images, and now they are (400-num. of images) and (size of input 64*64, so 4096)
 * Next i split my data into train and test sets
 * I check if there is class balance and thats correct 
+
+# Next i gonna use PCA for dimensionality reduction
