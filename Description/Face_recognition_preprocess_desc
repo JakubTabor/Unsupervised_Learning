@@ -19,3 +19,4 @@
 
 # Next i gonna use PCA for dimensionality reduction
 * As on the graph below we can see how data is transformed from 2 to 1 component data
+* I gonna check my data reduced to only 2 dimensions, so i supply 2 for num. of components and transform my current data
