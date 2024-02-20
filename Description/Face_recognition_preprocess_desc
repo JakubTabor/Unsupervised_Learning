@@ -25,3 +25,4 @@
 * So i can see on graph 10 different people in na 2 components data
 
 # I want to check the optimal number of components for my data 
+* First i gonna check num. of components usin KElbow method
