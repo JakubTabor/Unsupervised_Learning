@@ -30,3 +30,4 @@
 * Both Graphs are not so certain to the number of components, so i gonna check another method
 
 # Then i gonna use graph plot, with explanation of variance 
+* We are gonna choose number of components where variance stop decaying so drastically, but not stop absolutely
