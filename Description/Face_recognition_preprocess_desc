@@ -31,3 +31,5 @@
 
 # Then i gonna use graph plot, with explanation of variance 
 * We are gonna choose number of components where variance stop decaying so drastically, but not stop absolutely
+* Is that case around 50 and 90 components
+
