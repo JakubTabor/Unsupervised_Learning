@@ -8,3 +8,5 @@
 * I put them into the model list and train on my train set 
 * Then take predictions and check the score results
 * And i see that also as good as SVM are models: LogisticRegression and LinearDiscriminant
+
+# I want to reach the highest score as possible, so i gonna use cross_val_score technique
