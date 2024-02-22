@@ -6,3 +6,4 @@
 
 # Then i gonna check couple other models
 * I put them into the model list and train on my train set 
+* Then take predictions and check the score results
