@@ -2,3 +2,4 @@
 * I prepare train and test sets using my model and i gonna train couple models 
 * I start from SVC model and i reach very high accuracy
 * And i plot my model's predictions on confusion matrix
+* I also check classification report and reach average f1-score 0.92, which is very good
