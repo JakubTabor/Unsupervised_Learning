@@ -5,3 +5,4 @@
 * I also check classification report and reach average f1-score 0.92, which is very good
 
 # Then i gonna check couple other models
+* I put them into the model list and train on my train set 
