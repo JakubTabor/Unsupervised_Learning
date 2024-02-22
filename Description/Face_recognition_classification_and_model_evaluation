@@ -1,2 +1,3 @@
 # Next we are gonna do classification, model fine tuning and evaluation 
 * I prepare train and test sets using my model and i gonna train couple models 
+* I start from SVC model and i reach very high accuracy
