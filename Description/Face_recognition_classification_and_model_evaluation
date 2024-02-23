@@ -20,3 +20,4 @@
 * I use LeaveOneOut model, which leave only 1 sample for testing 
 * So i feed in to the cross_val_score LogisticRegression, which achieve score: 0.97
 * And LinearDiscriminant, which achieve score: 0.99
+* So still LinearDiscriminat win with other models
