@@ -15,3 +15,5 @@
 * Finally i can take mean score from all scores 
 * I see that 3 model reach high accuracy: LinearDiscriminant, LogisticRegression and SVC 
 * Then i check confusion_matrix on my LinearDiscriminant model, when i check average f1-score its 0.94 which is pretty high
+
+# Next i gonna do further model tuning
