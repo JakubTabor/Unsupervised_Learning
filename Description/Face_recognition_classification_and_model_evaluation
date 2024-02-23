@@ -17,3 +17,4 @@
 * Then i check confusion_matrix on my LinearDiscriminant model, when i check average f1-score its 0.94 which is pretty high
 
 # Next i gonna do further model tuning
+* I use LeaveOneOut model, which leave only 1 sample for testing 
