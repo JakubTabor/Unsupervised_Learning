@@ -11,3 +11,4 @@
 
 # I want to reach the highest score as possible, so i gonna use cross_val_score technique
 * So i supply Kflod model, set data splits to 5, then shuffle the data
+* Next i supply my models to the cross_val_score, next X and Y variables and KFold model
