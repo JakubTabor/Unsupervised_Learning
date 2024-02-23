@@ -13,3 +13,4 @@
 * So i supply Kflod model, set data splits to 5, then shuffle the data
 * Next i supply my models to the cross_val_score, next X and Y variables and KFold model
 * Finally i can take mean score from all scores 
+* I see that 3 model reach high accuracy: LinearDiscriminant, LogisticRegression and SVC 
