@@ -27,3 +27,4 @@
 * When i check the target shape its 400 by 40 and first target is just row vector with 39 zeros and 1 in place of corect class num.
 
 # Then i create new train and test set for multiclass classification
+* I use PCA on given X_train and transform using PCA X_train and X_test
