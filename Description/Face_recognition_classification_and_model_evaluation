@@ -34,3 +34,4 @@
 * Fortunately we have only 40 classes, because thera are some issues with very large number of classes
 * It's because for each class ther's need to be create one model
 * And one vs rest is because 40 classes dataset can be devided into 40 binary classification datasets
+* Por example 1 vs (2-40), then 2 vs (1-40) without 2 and on
