@@ -33,3 +33,4 @@
 # What its doing is following: its splitting a multi class dataset into multiple binary classification problems
 * Fortunately we have only 40 classes, because thera are some issues with very large number of classes
 * It's because for each class ther's need to be create one model
+* And one vs rest is because 40 classes dataset can be devided into 40 binary classification datasets
