@@ -29,3 +29,5 @@
 # Then i create new train and test set for multiclass classification
 * I use PCA on given X_train and transform using PCA X_train and X_test
 * To do multi class classification we are gonna use One VS Rest Classifier
+
+# What its doing is following: its splitting a multi class dataset into multiple binary classification problems
