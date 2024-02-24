@@ -24,3 +24,4 @@
 
 # Then i gonna illustrate precision and recall curves with help of signature module and plt
 * First i gonna binarize my 40 classes 
+* When i check the target shape its 400 by 40 and first target is just row vector with 39 zeros and 1 in place of corect class num.
