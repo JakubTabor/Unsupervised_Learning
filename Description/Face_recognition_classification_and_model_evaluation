@@ -50,3 +50,4 @@
 * We achieve score 0.95 over all classes
 
 # Now we are ready to plot on graph our results
+* As we see, when Recall start to achieve more that 0.6 our precision decrease
