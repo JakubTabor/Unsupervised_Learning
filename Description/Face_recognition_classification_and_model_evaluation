@@ -51,3 +51,4 @@
 
 # Now we are ready to plot on graph our results
 * As we see, when Recall start to achieve more that 0.6 our precision decrease
+* That's why we get 0.95 at your score
