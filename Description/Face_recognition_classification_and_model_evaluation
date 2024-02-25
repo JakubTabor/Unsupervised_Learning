@@ -46,3 +46,4 @@
 * Then i also define avg-precision and feed the same y_test and y_score from first to i-th element
 * Next we want to take micro precision and recall, to do that we need to flatten our (120, 40) y_test_multicalss and make it contiguous
 * So we call ravel to do this 
+* And we also take micro-average precision, by just passing y_test and y_score and set average to micro
