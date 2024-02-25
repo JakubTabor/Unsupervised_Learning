@@ -39,3 +39,4 @@
 # Then i call OneVsRestClassifier on my LinearDiscriminant
 * And i feed X and y train to my model, then i evaluate my model with X_test
 * Next to get scores i create few dictionaries to store them
+* And next i create for loop in range of number of classes
