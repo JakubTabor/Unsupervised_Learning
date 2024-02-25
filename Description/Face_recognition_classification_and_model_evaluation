@@ -42,3 +42,4 @@
 * And next i create for loop in range of number of classes
 * Inside loop i define precision and recall called from metrics
 * And feed my y_test from first row to the i-th element and also y_score [:, i] - from first to i-th
+* Thats how we define previous explanation
