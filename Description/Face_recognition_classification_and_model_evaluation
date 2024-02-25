@@ -43,3 +43,4 @@
 * Inside loop i define precision and recall called from metrics
 * And feed my y_test from first row to the i-th element and also y_score [:, i] - from first to i-th
 * Thats how we define previous explanation
+* Then i also define avg-precision and feed the same y_test and y_score from first to i-th element
