@@ -48,3 +48,5 @@
 * So we call ravel to do this 
 * And we also take micro-average precision, by just passing y_test and y_score and set average to micro
 * We achieve score 0.95 over all classes
+
+# Now we are ready to plot on graph our results
