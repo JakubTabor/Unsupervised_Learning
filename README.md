@@ -9,10 +9,10 @@
 
 # First, we change the structure of my data to make it better self-descriptive
 # [Data preprocessing and feature engineering](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Description/marketing_campaign_preprocess_desc)
-![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/marketing_campaign_preprocessing/feature_engineering.png)
-
 * Then I make simple outliers cleaning from outliers with help of graph plot
 * Next I built correlation
+
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/marketing_campaign_preprocessing/feature_engineering.png)
 
 # I take care of Categorical features with help of LabelEncoder and I drop features on deals
 * Then use StandardScaler to scale all of my data
@@ -46,6 +46,8 @@
 * They are: **Amount, Frequency and Recency** and they become my new dataset
 
 # Then i want to remove the outliers from my dataset
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Online_retail_preprocessing/Outliers_removal_IQR.png)
+
 * First to take a look at my data distribution i plot my data on graph
 * And next i use IQR tehnique to remove outliers
 * Thanks to the previous graph i know where lie the outliers and i can define fences to exclude the highest and the lowest values
