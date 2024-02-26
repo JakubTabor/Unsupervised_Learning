@@ -58,6 +58,7 @@
 # Next we are gonna build model for our dataset, it will be KMeans model 
 # [Clustering and model evaluation](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Description/Online_retail_clustering_model_eval_desc)
 ![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Online_retail_dim_reduction_model_evaluation_desc/Silhuette_scores.png)
+
 * But first we are gonna figure our number of clusters from our dataset
 * First we check it using inertia_ and supplying 7 possible num. of clusters
 * Next we use Silhouette Score and overall from this 2 techniques we see that the best num. of clusters is 3
@@ -65,6 +66,7 @@
 
 # Now we can check on graph the characteristics of each cluster
 * And we derive following conclusions:
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Online_retail_dim_reduction_model_evaluation_desc/conclusions.png)
 
 # We also check the hierarhical clustering, and it gives us similar conclusions
 * Numbers are different, but still the order is the same
