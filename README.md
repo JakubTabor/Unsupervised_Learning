@@ -20,11 +20,11 @@
 # I use PCA for dimensionality reduction and left only 3 the most important features
 # [Dimensionality reduction and model evaluation](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Description/market_campain_dim_reduction_desc)
 * I plot my dimensionality reduced data on 3D graph
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Marketing_campain_Clustering_dim_reduction/cluster_plot%20(1).png)
 
 # Next use elbow method to figure out optimal number of clusters
-![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Marketing_campain_Clustering_dim_reduction/elbow_method.png)
-
 * And I use Agglomerative Clustering to create those clusters, then plot their distribution on 3D graph
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Marketing_campain_Clustering_dim_reduction/elbow_method.png)
 
 # Then I check distribution of my clusters and go into details into customers profiling
 * I use different plots to extract deeper sense of the informations about customer included in each cluster
