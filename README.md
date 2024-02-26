@@ -22,6 +22,8 @@
 * I plot my dimensionality reduced data on 3D graph
 
 # Next use elbow method to figure out optimal number of clusters
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Marketing_campain_Clustering_dim_reduction/elbow_method.png)
+
 * And I use Agglomerative Clustering to create those clusters, then plot their distribution on 3D graph
 
 # Then I check distribution of my clusters and go into details into customers profiling
