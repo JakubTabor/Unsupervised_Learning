@@ -67,7 +67,7 @@
 # Now we can check on graph the characteristics of each cluster
 * And we derive following conclusions:
 
-![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Online_retail_dim_reduction_model_evaluation_desc/conclusions.png)
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Online_retail_dim_reduction_model_evaluation_desc/KMeans_conclusions.png)
 
 # We also check the hierarhical clustering, and it gives us similar conclusions
 * Numbers are different, but still the order is the same
