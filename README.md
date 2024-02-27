@@ -74,6 +74,8 @@
 
 # And that's the final summary of each 3 clusters:
 # And we can say that the Cluster nr. 3 is the most important in sence of customers
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Online_retail_dim_reduction_model_evaluation_desc/Cluster_3.png)
+
 # And Cluster nr. 2 is little below
 # The Cluster nr. 1 at the last place
 
