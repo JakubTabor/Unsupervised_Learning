@@ -101,6 +101,8 @@
 * To do this i use mglearn module and then plt function, to represent it on my dataset
 
 # Then i gonna figure our out the optimal number of clusters
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Face_recognition_classification_And_model_evaluation/variance_graph.png)
+
 * First i use KElbow technique, i run it for many iterations and only few iterations, but i dont get any concrete results
 * So i try another technique, which is graph of variance explanation, a now i can see that variance stabilize around 50 - 90 components
 * I stay with maximum allowed - 90, i pass to my PCA model 90 components and train it on my dataset
