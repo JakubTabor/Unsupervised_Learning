@@ -110,6 +110,7 @@
 # Now i can come to the part of classification
 * I start from transforming X_train and X_test
 * Next i couple models and and train them, the best scores reach LinearDiscriminant, LogisticRegression and SVC
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Face_recognition_classification_And_model_evaluation/models_scores.png)
 
 # Next i do further evaluations to reach the clarity which model is the best, so i use cross validation score
 * I supply the KFold model with 5 splits of data and shuffling parameter
