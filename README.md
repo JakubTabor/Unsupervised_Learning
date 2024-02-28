@@ -101,12 +101,11 @@
 * To do this i use mglearn module and then plt function, to represent it on my dataset
 
 # Then i gonna figure our out the optimal number of clusters
-![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Face_recognition_classification_And_model_evaluation/variance_graph.png)
-
 * First i use KElbow technique, i run it for many iterations and only few iterations, but i dont get any concrete results
 * So i try another technique, which is graph of variance explanation, a now i can see that variance stabilize around 50 - 90 components
 * I stay with maximum allowed - 90, i pass to my PCA model 90 components and train it on my dataset
 * Then i plot on graph the average face from my model and the eigenfaces, so the components of my model
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Face_recognition_classification_And_model_evaluation/variance_graph.png)
 
 # Now i can come to the part of classification
 * I start from transforming X_train and X_test
@@ -116,6 +115,7 @@
 * I supply the KFold model with 5 splits of data and shuffling parameter
 * And i put it into cross_val_score model, as well as all my models and my data and targets
 * 2 model achieve the best accuracy: LinearDiscriminant and LogisticRegression
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Face_recognition_classification_And_model_evaluation/cross_val_scores.png)
 
 # Another measurement that i do is by LeaveOneOut model, it leave only 1 sample for evaluation
 * I supply into cross_val_score model both classifiers, then X and y, then LeaveOneOut model
