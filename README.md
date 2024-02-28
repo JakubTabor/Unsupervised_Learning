@@ -89,6 +89,8 @@
 # In this part i gonna build a model for face recognition, based on face dataset, which i include in CSV directory
 # [CSV directory](https://github.com/JakubTabor/Unsupervised_Learning/tree/main/CSV)
 # First i start from data exploration 
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Face_recognition_preprocessing/dataset_info.png)
+
 * To do this i create function with plt module
 * And to check data properties i use prints of por example: number of target and image size
 
