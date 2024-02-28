@@ -133,3 +133,4 @@
 # And finally i also arrange the operations in Piepeline
 * I supply my 2 best models into workflow and then train them, next get predictions
 * And i supply the predictions to get accuracy and classification results
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Face_recognition_classification_And_model_evaluation/Pipeline.png)
