@@ -80,6 +80,7 @@
 ![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Online_retail_dim_reduction_model_evaluation_desc/Cluster2.png)
 
 # The Cluster nr. 1 at the last place
+![](https://github.com/JakubTabor/Unsupervised_Learning/blob/main/Images/Online_retail_dim_reduction_model_evaluation_desc/Cluster1.png)
 
 #
 #
