@@ -54,4 +54,4 @@
 * That's why we get 0.95 at your score
 
 # The work is done for now, but we can also use Pipeline to perform our work
-
+* First we create list for work_flows_std and pass our models into it
