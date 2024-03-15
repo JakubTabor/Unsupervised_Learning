@@ -57,3 +57,4 @@
 * First we create list for work_flows_std and pass our models into it
 * Then we put them into Pipeline and train the models with our X and train
 * Next i get predictions on X_test and now i can get from metrics accuracy score for our models
+* And i get accuracy and classification report for both models
